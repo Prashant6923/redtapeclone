@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Running Shoes",
+    "category": "Trending",
+    "image": "https://redtape.com/cdn/shop/files/RSO3854_3.jpg?v=1717408311",
+    "description": "Lightweight running shoes with breathable mesh and cushioned soles.",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "name": "Retro Sneakers",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/UBeG4NtSB4E9CO97NlnqnlxPBT2uO2QGwbtanWHGFDc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFmK1Z0b3VWYUwu/anBn",
+    "description": "Stylish sneakers with a retro look, perfect for casual outings.",
+    "price": 25
+  },
+  {
+    "id": 3,
+    "name": "Trail Hiking Boots",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/48PpLwfat5O9jb-Hn7afSP-FXi63t7uualn_vyAwJdQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG5h/Lmx5c3RpdC5jb20v/MzAwLzM3NS90ci9w/aG90b3MvYXNvcy81/ZmVlMjBlOC9yZWQt/dGFwZS1Ccm93bi1D/aHVua3ktU29sZS1M/YWNlLVVwLUJvb3Rz/LmpwZWc",
+    "description": "Durable boots for rugged trails with excellent grip and ankle support.",
+    "price": 50
+  },
+  {
+    "id": 4,
+    "name": "High-Top Basketball Shoes",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/N1tjiCa6O-8Fs7ttMtA6ZUJZykzAw_bTgg4b5bbykKk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjF3NGYzNDdpNUwu/anBn",
+    "description": "High-top shoes designed for maximum support and comfort on the court.",
+    "price": 45
+  },
+  {
+    "id": 5,
+    "name": "Classic Sliders",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/mQ0DksZgg3lC7iQssZD49RI4p_Hih1p1oYci3FHPmJ4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjEzWjdrQk1xSUwu/anBn",
+    "description": "Timeless loafers made with premium leather, perfect for formal occasions.",
+    "price": 40
+  },
+  {
+    "id": 6,
+    "name": "Lightweight Trainers",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/pgQX_0zstKPvT3NzZfCEXBRNpLwXRq4utL9frcD-1is/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFmYXQzT3QtU0wu/anBn",
+    "description": "Flexible trainers ideal for gym workouts and high-intensity exercises.",
+    "price": 30
+  },
+  {
+    "id": 7,
+    "name": "Everyday Walking Shoes",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/EtI54VNrR7ecKQGXrfiMxeUgNTOGy8UrK-FK4mbr3-o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFrRnI2a0dIc0wu/anBn",
+    "description": "Comfortable walking shoes designed for all-day wear.",
+    "price": 25
+  },
+  {
+    "id": 8,
+    "name": "Slip-On Canvas Shoes",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/aj8Ht82meI4xZezeNkkgQ2Z8x-vfInq5CLxZrBSk-5U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kaTJw/b252MHY1b3R3LmNs/b3VkZnJvbnQubmV0/L3Bvc3RzLzIwMjAv/MTAvMDUvNWY3Yjkz/NjMyZjNkMTlhNTMz/ZDJhYWUzL3NfNWY3/YjkzOGM2MGZkZWRm/NDA4Y2JmOTVlLmpw/Zw",
+    "description": "Easy-to-wear slip-ons with a casual and stylish look.",
+    "price": 20
+  },
+  {
+    "id": 9,
+    "name": "Waterproof Trail Boots",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/Cqle1qHnLo0t_uKEbo0cOp9B7e3Np9lMiXPUXIwKfR0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFiTmd2dXhIcEwu/anBn",
+    "description": "Waterproof hiking boots with rugged soles and superior grip.",
+    "price": 55
+  },
+  {
+    "id": 10,
+    "name": "Running Trainers",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/3QaNayyWjJJzQXIFd3tSsZJmZNIg_9ZAP015mTNyvmg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFmYXQzT3QtU0wu/anBn",
+    
+    "description": "Lightweight running trainers with excellent cushioning and durability.",
+    "price": 35
+  },
+  {
+    "id": 11,
+    "name": "Leather Formal Shoes",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/oJG1RC0xdP0XyveJAuOUXB8FFTSpG3rw8y479LM1oR8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFObEpBSVNqb0wu/anBn",
+    "description": "Elegant leather shoes with a polished finish, ideal for formal events.",
+    "price": 60
+  },
+  {
+    "id": 12,
+    "name": "Skateboarding Shoes",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/N1tjiCa6O-8Fs7ttMtA6ZUJZykzAw_bTgg4b5bbykKk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjF3NGYzNDdpNUwu/anBn",
+    "description": "Durable skateboarding shoes with excellent grip and a cool design.",
+    "price": 35
+  },
+  {
+    "id": 13,
+    "name": "Casual Espadrilles",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/xoMp6wDaCelysvbfvW37i3tFjKU2QN0kowkH9URr-SM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjE0SXYzK0xqZUwu/anBn",
+    "description": "Light and breathable espadrilles, perfect for summer days.",
+    "price": 15
+  },
+  {
+    "id": 14,
+    "name": "Dallas chukka Boots",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/unr23T9PmNaBV7zgIHHQB3O1LoTvBFDvhOcJtrEJfA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFQK3NwZTk5LUwu/anBn",
+    "description": "Insulated snow boots designed to keep your feet warm in winter.",
+    "price": 70
+  },
+  {
+    "id": 15,
+    "name": "High-Performance Running Shoes",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/Da92rLumH9jAWaurkEQULj5VdW_MNZ9vvY5NfBFaFJw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFUMjRuZDBrcEwu/anBn",
+    "description": "Running shoes engineered for high performance and speed.",
+    "price": 50
+  },
+  {
+    "id": 16,
+    "name": "Classic Oxford Shoes",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/5ZP7MPtCdk6T4FPUsU0uQndVzx9V1g0QCr3o7zFm4mE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFGWU1YczliNEwu/anBn",
+    "description": "Timeless Oxford shoes crafted with fine leather.",
+    "price": 55
+  },
+  {
+    "id": 17,
+    "name": "All-Terrain Sandals",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/zP8mjzXUfw5urCnmuJl3JQhA9IX3CX5-3iGK_m4Iu1I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzEyWnFETjFuUUwu/anBn",
+    "description": "Versatile sandals suitable for both hiking and casual outings.",
+    "price": 25
+  },
+  {
+    "id": 18,
+    "name": "Vintage Style Sneakers",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/Fg0CQRiCi4eLiYKtDtUiL8RjZ9vJelACVbMstayrPXQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFrMEljWnEzVUwu/anBn",
+    "description": "Retro sneakers with a modern twist for a trendy look.",
+    "price": 30
+  },
+  {
+    "id": 19,
+    "name": "Comfortable Slippers",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/qdzu_MyAwizzsESeHh-EZAmF9S21bSKGUit-oS3Qmvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjF5UVJPNWI0TUwu/anBn",
+    "description": "Soft and cushioned slippers designed for relaxation.",
+    "price": 15
+  },
+  {
+    "id": 20,
+    "name": "Leather Designer Shoes",
+    "category": "Trending",
+    "image": "https://imgs.search.brave.com/7FJif5UmDtj--rB2Zf1N68nLA7sXGJ1C2ICUWbZwpog/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vdGJveC5jby51/ay9jZG4vc2hvcC9m/aWxlcy84YWJhMzY0/NS04NDFmLTQ2MWEt/ODIxZC0yYjYzMTM3/NGY5NDQuanBnP3Y9/MTY4NDg1MTA5MiZ3/aWR0aD02MDA",
+    "description": "Premium designer shoes that make a statement.",
+    "price": 100
+  }
+]
+
+  
